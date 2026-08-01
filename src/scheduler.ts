@@ -4,6 +4,17 @@ export type Rating = 'again' | 'hard' | 'good' | 'easy'
 
 const factors: Record<Rating, number> = { again: 0, hard: 1.2, good: 2.5, easy: 4 }
 
+export function shuffleReviewQueue<T>(items: readonly T[], random = Math.random): T[] {
+  const shuffled = [...items]
+
+  for (let index = shuffled.length - 1; index > 0; index--) {
+    const target = Math.floor(random() * (index + 1))
+    ;[shuffled[index], shuffled[target]] = [shuffled[target], shuffled[index]]
+  }
+
+  return shuffled
+}
+
 export function nextReview(cardId: string, rating: Rating, previous?: ReviewProgress, now = new Date()): ReviewProgress {
   const currentInterval = previous?.intervalDays ?? 0
   const baseEase = previous?.ease ?? 2.5

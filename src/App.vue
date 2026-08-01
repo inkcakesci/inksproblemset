@@ -3,7 +3,7 @@ import { computed, onMounted, ref } from 'vue'
 import cardsJson from './generated/cards.json'
 import { db, exportProgress, importProgress } from './db'
 import { renderMarkdown } from './markdown'
-import { nextReview, type Rating } from './scheduler'
+import { nextReview, shuffleReviewQueue, type Rating } from './scheduler'
 import type { KnowledgeCard, ReviewProgress } from './types'
 
 type View = 'home' | 'browse' | 'review'
@@ -33,7 +33,7 @@ const learned = computed(() => progress.value.filter((item) => item.repetitions 
 onMounted(refresh)
 async function refresh() { progress.value = await db.progress.toArray() }
 function startReview() {
-  queue.value = [...dueCards.value]
+  queue.value = shuffleReviewQueue(dueCards.value)
   index.value = 0
   revealed.value = false
   view.value = 'review'
@@ -90,7 +90,7 @@ async function upload(event: Event) {
         <h1>今天，记住一点。</h1>
         <p>把散落的面试知识，变成每天都能完成的短复习。</p>
         <button class="primary" :disabled="dueCards.length === 0" @click="startReview">
-          {{ dueCards.length ? `开始复习 · ${dueCards.length} 题` : '今天已经复习完成' }}
+          {{ dueCards.length ? `随机复习 · ${dueCards.length} 题` : '今天已经复习完成' }}
         </button>
       </section>
       <section class="stats">
