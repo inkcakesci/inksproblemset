@@ -3,6 +3,7 @@ id: payment-accounting-domain-models
 title: Trade、PaymentOperation、Ledger 与对账记录
 category: 业务 / 支付
 tags: [Trade, Ledger, Reconciliation]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

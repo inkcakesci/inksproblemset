@@ -3,6 +3,7 @@ id: java-reflection-what-and-why
 title: Java 反射是什么，框架为什么需要它？
 category: Java / 反射
 tags: [java, reflection, framework, metadata]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

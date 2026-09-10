@@ -3,6 +3,7 @@ id: spring-bean-lifecycle
 title: Spring Bean 的生命周期是什么？
 category: Spring / 核心
 tags: [spring, bean, lifecycle, beanpostprocessor]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

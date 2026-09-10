@@ -3,6 +3,7 @@ id: frontend-not-final-authorization
 title: 前端不能承担最终权限判断
 category: 前端 / 安全
 tags: [Authorization, KYC, Payment]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: database-acid-with-adjustment-example
 title: 事务 ACID 如何在资金调账中体现？
 category: 架构 / 数据库
 tags: [transaction, acid, adjustment, consistency]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

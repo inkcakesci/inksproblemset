@@ -3,6 +3,7 @@ id: spring-component-service-repository-controller
 title: Spring 的 @Component、@Service、@Repository 和 @Controller 有什么区别？
 category: Spring / 注解
 tags: [spring, component, service, repository, controller]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

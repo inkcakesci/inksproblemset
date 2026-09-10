@@ -3,6 +3,7 @@ id: integration-payment-api-documentation-engineering
 title: 支付 API 与签名文档为什么也是工程能力？
 category: 业务实践 / 对外接入
 tags: [api-docs, signature, merchant, integration]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

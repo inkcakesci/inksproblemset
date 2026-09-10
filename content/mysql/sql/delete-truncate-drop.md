@@ -3,6 +3,7 @@ id: mysql-delete-truncate-drop-differences
 title: DELETE、TRUNCATE 和 DROP 有什么区别？
 category: MySQL / SQL
 tags: [mysql, delete, truncate, drop]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

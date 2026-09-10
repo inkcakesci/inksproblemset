@@ -3,6 +3,7 @@ id: java-hashmap-hash-spread-and-bucket-index
 title: HashMap 如何根据 Key 定位桶？
 category: Java / 集合
 tags: [java, hashmap, hash, bucket]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: durable-queue-vs-inline-llm-task
 title: LLM 后台任务为什么应使用持久队列
 category: 分布式系统 / 任务队列
 tags: [LLM, Queue, Durability, Async]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

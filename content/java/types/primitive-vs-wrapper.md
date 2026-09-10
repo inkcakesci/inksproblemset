@@ -3,6 +3,7 @@ id: java-primitive-vs-wrapper-types
 title: Java 为什么同时有基本类型和包装类型？
 category: Java / 类型系统
 tags: [java, primitive, wrapper, autoboxing]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

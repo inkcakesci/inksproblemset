@@ -3,6 +3,7 @@ id: llm-memory-revision-generation-fence
 title: LLM 记忆为什么需要 Revision 和 Generation 围栏
 category: AI / 长期记忆
 tags: [LLM, Memory, Revision, Fencing]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

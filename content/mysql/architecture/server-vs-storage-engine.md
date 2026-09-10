@@ -3,6 +3,7 @@ id: mysql-server-vs-storage-engine
 title: MySQL Server 层和存储引擎层有什么区别？
 category: MySQL / 架构
 tags: [mysql, server-layer, innodb, storage-engine]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

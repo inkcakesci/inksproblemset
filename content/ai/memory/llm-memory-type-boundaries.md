@@ -3,6 +3,7 @@ id: llm-memory-type-boundaries
 title: LLM 系统中的上下文、事实与经历记忆如何划分
 category: AI / 长期记忆
 tags: [LLM, Memory, Context, Architecture]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

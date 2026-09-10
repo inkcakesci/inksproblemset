@@ -3,6 +3,7 @@ id: operations-notification-deduplication
 title: 运营消息通知如何设计幂等？
 category: 业务实践 / 运营后台
 tags: [notification, idempotency, dedupe-key]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

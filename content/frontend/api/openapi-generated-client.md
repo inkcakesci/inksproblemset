@@ -3,6 +3,7 @@ id: frontend-openapi-generated-client-contract
 title: OpenAPI TypeScript Client 契约一致性
 category: 前端 / API
 tags: [OpenAPI, TypeScript, Contract]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

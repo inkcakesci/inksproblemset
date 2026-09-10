@@ -3,6 +3,7 @@ id: business-manual-adjustment-workflow
 title: 异常调账功能如何设计？
 category: 业务实践 / 异常调账
 tags: [adjustment, trade-flow, approval, accounting]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

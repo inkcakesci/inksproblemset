@@ -3,6 +3,7 @@ id: mysql-union-vs-union-all
 title: SQL 中 UNION 和 UNION ALL 有什么区别？
 category: MySQL / SQL
 tags: [mysql, sql, union, union-all]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

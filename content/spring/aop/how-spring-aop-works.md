@@ -3,6 +3,7 @@ id: spring-aop-proxy-workflow
 title: Spring AOP 的基本原理是什么？
 category: Spring / AOP
 tags: [spring, aop, proxy, interceptor]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

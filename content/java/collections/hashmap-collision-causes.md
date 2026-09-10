@@ -3,6 +3,7 @@ id: java-hashmap-collision-causes
 title: 什么是哈希碰撞，为什么一定可能发生？
 category: Java / 集合
 tags: [java, hashmap, hash-collision, hashcode]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: payment-stripe-idempotency
 title: Stripe 支付幂等设计
 category: 业务 / 支付
 tags: [Stripe, Idempotency, PaymentOperation]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

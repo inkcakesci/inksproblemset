@@ -3,6 +3,7 @@ id: trade-state-machine-design
 title: 交易状态机设计
 category: 业务 / 交易
 tags: [Trade, State Machine, Concurrency]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

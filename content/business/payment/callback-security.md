@@ -3,6 +3,7 @@ id: payment-channel-callback-security
 title: 支付渠道异步回调如何保证安全可靠？
 category: 业务实践 / 支付
 tags: [payment, callback, signature, replay, security]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

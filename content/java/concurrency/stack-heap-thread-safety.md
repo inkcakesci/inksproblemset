@@ -3,6 +3,7 @@ id: java-stack-heap-and-thread-safety
 title: 为什么栈上的变量通常线程隔离，堆对象却可能有线程安全问题？
 category: Java / 并发
 tags: [java, concurrency, stack, heap, thread-safety]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

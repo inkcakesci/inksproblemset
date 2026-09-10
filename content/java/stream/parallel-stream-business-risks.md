@@ -3,6 +3,7 @@ id: java-parallel-stream-business-risks
 title: 支付业务中为什么要谨慎使用 parallelStream？
 category: Java / Stream
 tags: [java, parallel-stream, concurrency, payment]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

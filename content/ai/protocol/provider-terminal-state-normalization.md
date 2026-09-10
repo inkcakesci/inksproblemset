@@ -3,6 +3,7 @@ id: provider-terminal-state-normalization
 title: 为什么要统一 LLM Provider 的终态
 category: AI / 模型协议
 tags: [LLM, Provider, State-Machine, Compatibility]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

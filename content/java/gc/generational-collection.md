@@ -3,6 +3,7 @@ id: java-generational-garbage-collection
 title: Java 分代回收是什么，对象如何在年轻代和老年代流转？
 category: Java / GC
 tags: [java, jvm, gc, young-generation, old-generation]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

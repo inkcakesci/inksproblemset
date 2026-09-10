@@ -3,6 +3,7 @@ id: java-hashmap-capacity-load-factor-tuning
 title: 如何设置 HashMap 初始容量和负载因子？
 category: Java / 集合
 tags: [java, hashmap, capacity, load-factor]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

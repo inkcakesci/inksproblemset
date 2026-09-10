@@ -3,6 +3,7 @@ id: business-fund-operation-safety-validation
 title: 资金类操作如何防止误操作和越权？
 category: 业务实践 / 异常调账
 tags: [fund, validation, authorization, audit]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: messaging-outbox-pattern
 title: Outbox Pattern 与事务消息
 category: 架构 / 消息
 tags: [Outbox, Transaction, Event]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

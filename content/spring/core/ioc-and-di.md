@@ -3,6 +3,7 @@ id: spring-ioc-and-di
 title: 如何理解 IoC 和 DI？
 category: Spring / 核心
 tags: [spring, ioc, dependency-injection]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: mysql-where-vs-having
 title: SQL 中 WHERE 和 HAVING 有什么区别？
 category: MySQL / SQL
 tags: [mysql, sql, where, having, group-by]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

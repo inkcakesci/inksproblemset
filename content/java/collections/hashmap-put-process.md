@@ -3,6 +3,7 @@ id: java-hashmap-internals-and-put-process
 title: JDK 8 HashMap 的底层结构和 put 流程是什么？
 category: Java / 集合
 tags: [java, hashmap, put, red-black-tree]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

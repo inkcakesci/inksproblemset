@@ -3,6 +3,7 @@ id: infrastructure-redis-usage-degradation
 title: Redis 的 TTL、失效与故障降级
 category: 基础设施 / Redis
 tags: [Redis, Cache, TTL, Degradation]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

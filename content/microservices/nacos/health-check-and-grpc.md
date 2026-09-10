@@ -3,6 +3,7 @@ id: nacos-health-check-and-grpc-connection
 title: Nacos 如何判断实例存活，2.x 为什么引入 gRPC？
 category: 微服务 / Nacos
 tags: [nacos, health-check, grpc, heartbeat]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

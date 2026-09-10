@@ -3,6 +3,7 @@ id: java-memory-model-visibility-atomicity-ordering
 title: Java 内存模型（JMM）是什么？
 category: Java / 并发
 tags: [java, jmm, visibility, atomicity, ordering]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

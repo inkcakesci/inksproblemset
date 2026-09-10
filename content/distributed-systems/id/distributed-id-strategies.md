@@ -3,6 +3,7 @@ id: distributed-id-uuid-redis-snowflake
 title: 分库分表为什么需要分布式 ID，常见方案如何选择？
 category: 分布式系统 / ID
 tags: [distributed-system, id, uuid, redis, snowflake]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

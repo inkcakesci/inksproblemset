@@ -3,6 +3,7 @@ id: spring-what-is-a-bean
 title: Spring Bean 是什么？
 category: Spring / 核心
 tags: [spring, bean, ioc, aop]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: observability-mdc-thread-pool-service-propagation
 title: MDC 在线程池和跨服务调用中如何传递？
 category: 基础设施 / 可观测性
 tags: [mdc, thread-local, task-decorator, trace]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

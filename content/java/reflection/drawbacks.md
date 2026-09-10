@@ -3,6 +3,7 @@ id: java-reflection-drawbacks
 title: Java 反射有哪些缺点？
 category: Java / 反射
 tags: [java, reflection, performance, encapsulation]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

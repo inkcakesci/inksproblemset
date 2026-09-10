@@ -3,6 +3,7 @@ id: business-adjustment-review-concurrency-locking
 title: 调账审核如何处理并发？
 category: 业务实践 / 异常调账
 tags: [adjustment, synchronized, row-lock, concurrency]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

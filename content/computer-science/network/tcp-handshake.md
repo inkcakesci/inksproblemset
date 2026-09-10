@@ -3,6 +3,7 @@ id: network-tcp-three-way-handshake
 title: TCP 为什么需要三次握手？
 category: 计算机基础 / 网络
 tags: [network, tcp]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

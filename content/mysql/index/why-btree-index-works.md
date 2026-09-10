@@ -3,6 +3,7 @@ id: mysql-why-bplus-tree-index-works
 title: MySQL 索引为什么能提高查询速度？
 category: MySQL / 索引
 tags: [mysql, innodb, index, b-plus-tree]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

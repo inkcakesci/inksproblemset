@@ -3,6 +3,7 @@ id: java-jvm-oom-vs-stack-overflow
 title: JVM 中常见的 OOM 和 StackOverflowError 有什么区别？
 category: Java / JVM
 tags: [java, jvm, oom, stackoverflow, memory]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

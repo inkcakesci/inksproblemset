@@ -3,6 +3,7 @@ id: java-bio-nio-aio-comparison
 title: Java BIO、NIO 和 AIO 有什么区别？
 category: Java / IO
 tags: [java, io, bio, nio, aio]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

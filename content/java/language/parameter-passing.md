@@ -3,6 +3,7 @@ id: java-parameter-passing-is-pass-by-value
 title: Java 参数传递是值传递还是引用传递？
 category: Java / 语言基础
 tags: [java, parameter-passing, reference, jvm]
+createdAt: "2026-07-31T21:00:27+08:00"
 type: qa
 ---
 

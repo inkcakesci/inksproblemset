@@ -3,6 +3,7 @@ id: java-database-vs-stream-processing
 title: 数据统计应该用数据库还是 Java Stream？
 category: Java / Stream
 tags: [java, stream, sql, database, aggregation]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

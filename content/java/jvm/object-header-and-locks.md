@@ -3,6 +3,7 @@ id: java-object-header-and-synchronized-locks
 title: Java 对象头为什么与 synchronized 锁有关？
 category: Java / JVM
 tags: [java, jvm, object-header, synchronized, lock]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

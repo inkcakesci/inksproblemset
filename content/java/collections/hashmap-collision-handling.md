@@ -3,6 +3,7 @@ id: java-hashmap-collision-handling-and-prevention
 title: HashMap 如何处理和减少哈希碰撞？
 category: Java / 集合
 tags: [java, hashmap, collision, treeify]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

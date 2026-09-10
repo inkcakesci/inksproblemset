@@ -3,6 +3,7 @@ id: mysql-long-transaction-costs
 title: 为什么不要滥用事务和长事务？
 category: MySQL / 事务
 tags: [mysql, long-transaction, lock, mvcc]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

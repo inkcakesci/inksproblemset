@@ -3,6 +3,7 @@ id: java-reflection-vs-dynamic-proxy
 title: Java 反射和动态代理有什么关系？
 category: Java / 反射
 tags: [java, reflection, dynamic-proxy, aop]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

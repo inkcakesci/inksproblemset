@@ -3,6 +3,7 @@ id: messaging-reliability-by-business-criticality
 title: 消息队列如何按业务重要性设计可靠性？
 category: 架构 / 消息
 tags: [kafka, reliability, retry, idempotency]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

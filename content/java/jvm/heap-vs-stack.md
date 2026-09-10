@@ -3,6 +3,7 @@ id: java-jvm-heap-vs-stack
 title: JVM 堆和 Java 虚拟机栈有什么区别？
 category: Java / JVM
 tags: [java, jvm, heap, stack]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

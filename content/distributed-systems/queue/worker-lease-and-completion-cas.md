@@ -3,6 +3,7 @@ id: worker-lease-and-completion-cas
 title: Worker 为什么同时需要 Lease 和完成 CAS
 category: 分布式系统 / 任务队列
 tags: [Worker, Lease, CAS, Concurrency]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

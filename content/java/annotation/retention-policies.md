@@ -3,6 +3,7 @@ id: java-annotation-retention-policies
 title: Java 注解的 SOURCE、CLASS 和 RUNTIME 有什么区别？
 category: Java / 注解
 tags: [java, annotation, retention, reflection]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: frontend-i18n-key-consistency
 title: 多语言资源 Key 一致性
 category: 前端 / 国际化
 tags: [i18n, English, French, Chinese]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

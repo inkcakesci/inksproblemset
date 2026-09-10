@@ -3,6 +3,7 @@ id: java-hashmap-capacity-resize-and-treeify
 title: HashMap 为什么使用 2 的幂容量，如何扩容和树化？
 category: Java / 集合
 tags: [java, hashmap, capacity, resize, treeify]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

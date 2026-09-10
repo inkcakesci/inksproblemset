@@ -3,6 +3,7 @@ id: bounded-sample-observability-bias
 title: 有界最新样本为什么会误导队列监控
 category: 分布式系统 / 任务队列
 tags: [Observability, Sampling, Queue, Metrics]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

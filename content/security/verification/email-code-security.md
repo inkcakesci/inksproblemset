@@ -3,6 +3,7 @@ id: security-email-verification-code
 title: 邮箱验证码的 Redis 安全设计
 category: 安全 / 验证码
 tags: [Redis, TTL, Hash, Rate Limit]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: payment-refund-order-design
 title: 支付系统的退款流程如何设计？
 category: 业务实践 / 支付
 tags: [payment, refund, idempotency, concurrency]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

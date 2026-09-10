@@ -3,6 +3,7 @@ id: payment-sync-vs-async-processing
 title: 同步支付与异步支付的选择
 category: 业务 / 支付
 tags: [Payment, Async, Worker]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

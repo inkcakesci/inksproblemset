@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue'
 import cardsJson from './generated/cards.json'
+import { sortCardsByCreatedAt, type CardSortOrder } from './card-sort'
 import { db, exportProgress, importProgress } from './db'
 import { renderMarkdown } from './markdown'
 import { nextReview, shuffleReviewQueue, type Rating } from './scheduler'
@@ -11,6 +12,7 @@ const cards = cardsJson as KnowledgeCard[]
 const view = ref<View>('home')
 const query = ref('')
 const category = ref('全部')
+const sortOrder = ref<CardSortOrder>('newest')
 const progress = ref<ReviewProgress[]>([])
 const queue = ref<KnowledgeCard[]>([])
 const index = ref(0)
@@ -22,11 +24,11 @@ const dueCards = computed(() => {
   const state = new Map(progress.value.map((item) => [item.cardId, item]))
   return cards.filter((card) => !state.get(card.id) || new Date(state.get(card.id)!.due) <= new Date())
 })
-const filteredCards = computed(() => cards.filter((card) => {
+const filteredCards = computed(() => sortCardsByCreatedAt(cards.filter((card) => {
   const text = [card.title, card.question, card.category, ...card.tags].join(' ').toLowerCase()
   return (category.value === '全部' || card.category === category.value) &&
     (!query.value.trim() || text.includes(query.value.trim().toLowerCase()))
-}))
+}), sortOrder.value))
 const currentCard = computed(() => queue.value[index.value])
 const learned = computed(() => progress.value.filter((item) => item.repetitions > 0).length)
 
@@ -37,6 +39,9 @@ function startReview() {
   index.value = 0
   revealed.value = false
   view.value = 'review'
+}
+function formatCreatedAt(value: string) {
+  return new Intl.DateTimeFormat('zh-CN', { dateStyle: 'medium', timeZone: 'Asia/Shanghai' }).format(new Date(value))
 }
 async function rate(rating: Rating) {
   if (!currentCard.value) return
@@ -112,11 +117,16 @@ async function upload(event: Event) {
       <div class="toolbar">
         <input v-model="query" type="search" placeholder="搜索题目、标签或分类…" />
         <select v-model="category"><option v-for="item in categories" :key="item">{{ item }}</option></select>
+        <select v-model="sortOrder" aria-label="题目排序">
+          <option value="newest">最新创建</option>
+          <option value="oldest">最早创建</option>
+        </select>
       </div>
       <div class="cards">
         <details v-for="card in filteredCards" :key="card.id">
           <summary>
-            <div><small class="category">{{ card.category }}</small><h2>{{ card.title }}</h2>
+            <div><div class="card-meta"><small class="category">{{ card.category }}</small>
+              <time :datetime="card.createdAt">创建于 {{ formatCreatedAt(card.createdAt) }}</time></div><h2>{{ card.title }}</h2>
               <div class="tags"><span v-for="tag in card.tags" :key="tag">#{{ tag }}</span></div>
             </div>
             <span class="open">查看答案</span>

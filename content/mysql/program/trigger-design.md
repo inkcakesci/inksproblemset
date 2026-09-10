@@ -3,6 +3,7 @@ id: mysql-trigger-design-and-risks
 title: 什么是 Trigger，为什么不要滥用？
 category: MySQL / 数据库对象
 tags: [mysql, trigger, maintainability]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

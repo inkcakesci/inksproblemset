@@ -3,6 +3,7 @@ id: redis-lock-owner-token-safe-release
 title: Redis 锁释放为什么必须校验 lockValue？
 category: 基础设施 / Redis
 tags: [redis, distributed-lock, lua, ttl]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

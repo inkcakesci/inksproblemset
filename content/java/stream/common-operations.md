@@ -3,6 +3,7 @@ id: java-stream-common-operations
 title: Stream 常见操作如何用于业务集合处理？
 category: Java / Stream
 tags: [java, stream, filter, map, reduce, grouping]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

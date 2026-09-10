@@ -3,6 +3,7 @@ id: payment-worker-at-least-once-delivery
 title: Payment Worker 的重复消费与失败处理
 category: 业务 / 支付
 tags: [SQS, Worker, Retry, DLQ]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

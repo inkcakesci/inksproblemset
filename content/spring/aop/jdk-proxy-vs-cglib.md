@@ -3,6 +3,7 @@ id: spring-jdk-dynamic-proxy-vs-cglib
 title: Spring 中 JDK 动态代理和 CGLIB 代理有什么区别？
 category: Spring / AOP
 tags: [spring, aop, jdk-proxy, cglib]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

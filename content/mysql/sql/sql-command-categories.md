@@ -3,6 +3,7 @@ id: mysql-sql-command-categories
 title: DDL、DML、DQL、DCL 和 TCL 分别是什么？
 category: MySQL / SQL
 tags: [mysql, sql, ddl, dml]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

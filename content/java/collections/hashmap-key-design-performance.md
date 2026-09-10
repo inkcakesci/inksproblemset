@@ -3,6 +3,7 @@ id: java-hashmap-key-design-performance
 title: HashMap 的 Key 如何设计得更高效？
 category: Java / 集合
 tags: [java, hashmap, key, performance]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

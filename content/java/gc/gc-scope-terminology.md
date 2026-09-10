@@ -3,6 +3,7 @@ id: java-minor-major-full-gc
 title: Minor GC、Major GC 和 Full GC 有什么区别？
 category: Java / GC
 tags: [java, jvm, gc, minor-gc, full-gc]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

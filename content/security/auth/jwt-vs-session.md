@@ -3,6 +3,7 @@ id: security-jwt-vs-session-access-refresh-token
 title: JWT 与 Session 认证有什么区别，为什么分 Access Token 和 Refresh Token？
 category: 安全 / 认证
 tags: [jwt, session, access-token, refresh-token]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: mysql-innodb-undo-vs-redo-log
 title: Undo Log 和 Redo Log 有什么区别？
 category: MySQL / 事务
 tags: [mysql, innodb, undo-log, redo-log]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

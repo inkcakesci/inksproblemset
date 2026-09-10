@@ -3,6 +3,7 @@ id: security-refresh-token-rotation-revocation-replay
 title: Refresh Token 如何轮换、撤销并防止重放？
 category: 安全 / 认证
 tags: [refresh-token, rotation, revocation, replay]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

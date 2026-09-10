@@ -3,6 +3,7 @@ id: llm-fact-slot-canonicalization
 title: LLM 事实记忆为什么需要稳定 Slot
 category: AI / 长期记忆
 tags: [LLM, Memory, Canonicalization, CAS]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

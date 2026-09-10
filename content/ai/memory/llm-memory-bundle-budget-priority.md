@@ -3,6 +3,7 @@ id: llm-memory-bundle-budget-priority
 title: 如何在 Token 预算内组装多类型长期记忆
 category: AI / 长期记忆
 tags: [LLM, Memory, Token-Budget, Retrieval]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

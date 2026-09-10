@@ -3,6 +3,7 @@ id: external-call-commit-crash-window
 title: 外部调用成功但本地提交失败怎么办
 category: 分布式系统 / 任务队列
 tags: [Idempotency, Retry, External-Call, Crash-Recovery]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

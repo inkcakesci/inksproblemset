@@ -3,6 +3,7 @@ id: java-what-is-annotation
 title: Java Annotation 是什么？
 category: Java / 注解
 tags: [java, annotation, metadata]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: business-adjustment-why-create-trade-flow
 title: 人工调账为什么需要生成 TradeFlow？
 category: 业务实践 / 异常调账
 tags: [adjustment, trade-flow, ledger, audit]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

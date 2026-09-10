@@ -3,6 +3,7 @@ id: java-equals-hashcode-and-double-equals
 title: Java 中 ==、equals() 和 hashCode() 有什么区别？
 category: Java / 对象模型
 tags: [java, object, equals, hashcode]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

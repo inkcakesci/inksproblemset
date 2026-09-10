@@ -3,6 +3,7 @@ id: mysql-innodb-buffer-pool-read-path
 title: MySQL 查询一定会从磁盘读取吗？
 category: MySQL / 架构
 tags: [mysql, innodb, buffer-pool, io]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

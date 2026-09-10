@@ -3,6 +3,7 @@ id: provider-backoff-and-batch-stop
 title: 外部服务故障时 Worker 为什么要停止当前批次
 category: 分布式系统 / 任务队列
 tags: [Backoff, Rate-Limit, Worker, Resilience]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

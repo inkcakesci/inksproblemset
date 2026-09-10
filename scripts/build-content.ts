@@ -48,11 +48,17 @@ async function build() {
     if (!Array.isArray(data.tags) || data.tags.some((tag) => typeof tag !== 'string')) {
       throw new Error(`${relativePath}: tags 必须是字符串数组`)
     }
+    const createdAt = stringField(data, 'createdAt', relativePath)
+    if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(createdAt) ||
+        Number.isNaN(Date.parse(createdAt))) {
+      throw new Error(`${relativePath}: createdAt 必须是有效的 ISO 8601 时间`)
+    }
     cards.push({
       id,
       title: stringField(data, 'title', relativePath),
       category: stringField(data, 'category', relativePath),
       tags: data.tags as string[],
+      createdAt,
       type,
       difficulty: ['easy', 'medium', 'hard'].includes(String(data.difficulty))
         ? data.difficulty as KnowledgeCard['difficulty'] : undefined,

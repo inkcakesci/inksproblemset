@@ -3,6 +3,7 @@ id: operations-notification-i18n-model
 title: 运营消息通知的 i18n 如何设计？
 category: 业务实践 / 运营后台
 tags: [notification, i18n, locale, fallback]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

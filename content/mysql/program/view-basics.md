@@ -3,6 +3,7 @@ id: mysql-view-basics-and-tradeoffs
 title: MySQL View 是什么？
 category: MySQL / 数据库对象
 tags: [mysql, view, query, security]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: mysql-sql-execution-flow
 title: 一条 SQL 在 MySQL 中如何执行？
 category: MySQL / 架构
 tags: [mysql, sql, optimizer, executor]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

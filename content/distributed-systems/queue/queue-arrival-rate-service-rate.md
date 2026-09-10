@@ -3,6 +3,7 @@ id: queue-arrival-rate-service-rate
 title: 如何用到达率和处理率判断队列积压
 category: 分布式系统 / 任务队列
 tags: [Queue, Capacity, Throughput, Backlog]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

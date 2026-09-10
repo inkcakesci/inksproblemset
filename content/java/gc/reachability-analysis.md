@@ -3,6 +3,7 @@ id: java-gc-reachability-vs-reference-counting
 title: JVM 如何判断对象是否可以回收？
 category: Java / GC
 tags: [java, jvm, gc, reachability, reference-counting]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

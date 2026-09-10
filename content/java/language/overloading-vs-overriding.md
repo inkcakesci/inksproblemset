@@ -3,6 +3,7 @@ id: java-method-overloading-vs-overriding
 title: Java 方法重载和方法重写有什么区别？
 category: Java / 语言基础
 tags: [java, overloading, overriding, polymorphism]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: java-hashmap-iteration-performance
 title: 遍历 HashMap 时如何减少不必要开销？
 category: Java / 集合
 tags: [java, hashmap, iteration, performance]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

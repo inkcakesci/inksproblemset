@@ -3,6 +3,7 @@ id: java-hashmap-equals-hashcode-key-contract
 title: HashMap 的 Key 为什么必须正确实现 equals 和 hashCode？
 category: Java / 集合
 tags: [java, hashmap, equals, hashcode]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

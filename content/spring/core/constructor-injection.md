@@ -3,6 +3,7 @@ id: spring-constructor-injection-over-field-injection
 title: 为什么不推荐 Spring 字段注入？
 category: Spring / 核心
 tags: [spring, dependency-injection, autowired, testing]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

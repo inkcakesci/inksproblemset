@@ -3,6 +3,7 @@ id: java-why-hashmap-is-not-thread-safe
 title: HashMap 为什么线程不安全？
 category: Java / 集合
 tags: [java, hashmap, concurrency, thread-safety]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

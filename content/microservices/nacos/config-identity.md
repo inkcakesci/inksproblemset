@@ -3,6 +3,7 @@ id: nacos-namespace-group-dataid
 title: Nacos 的 Namespace、Group 和 DataId 如何组织配置？
 category: 微服务 / Nacos
 tags: [nacos, config, namespace, dataid]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

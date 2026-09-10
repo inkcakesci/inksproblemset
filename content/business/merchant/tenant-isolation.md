@@ -3,6 +3,7 @@ id: merchant-data-and-configuration-isolation
 title: 多商户支付系统如何保证数据与配置隔离？
 category: 业务实践 / 商户
 tags: [merchant, multi-tenant, isolation, authorization]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

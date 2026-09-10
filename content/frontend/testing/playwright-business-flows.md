@@ -3,6 +3,7 @@ id: frontend-playwright-business-flow-testing
 title: Playwright 验证真实业务流程
 category: 前端 / 测试
 tags: [Playwright, E2E, Payment]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: payment-order-state-machine
 title: 支付订单状态机如何设计？
 category: 业务实践 / 支付
 tags: [payment, state-machine, concurrency, callback]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

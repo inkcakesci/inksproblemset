@@ -3,6 +3,7 @@ id: java-stream-lazy-intermediate-terminal
 title: Stream 的惰性求值、中间操作和终止操作是什么？
 category: Java / Stream
 tags: [java, stream, lazy-evaluation, terminal-operation]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: java-lambda-vs-anonymous-class
 title: Lambda 和匿名内部类有什么区别？
 category: Java / 函数式编程
 tags: [java, lambda, anonymous-class, invokedynamic]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

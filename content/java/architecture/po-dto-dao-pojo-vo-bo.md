@@ -3,6 +3,7 @@ id: java-po-dto-dao-pojo-vo-bo
 title: PO、DTO、DAO、POJO、VO、BO 分别是什么？
 category: Java / 分层设计
 tags: [java, dto, dao, pojo, vo, bo]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

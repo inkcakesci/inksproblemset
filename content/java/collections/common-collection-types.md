@@ -3,6 +3,7 @@ id: java-common-collection-types
 title: Java 常用集合如何选择？
 category: Java / 集合
 tags: [java, collections, arraylist, linkedlist, hashset, hashmap]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

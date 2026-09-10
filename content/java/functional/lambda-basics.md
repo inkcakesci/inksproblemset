@@ -3,6 +3,7 @@ id: java-lambda-expression-basics
 title: Java Lambda 表达式是什么，为什么引入它？
 category: Java / 函数式编程
 tags: [java, lambda, functional-programming]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

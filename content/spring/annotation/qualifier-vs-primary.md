@@ -3,6 +3,7 @@ id: spring-qualifier-vs-primary
 title: Spring 的 @Qualifier 和 @Primary 有什么区别？
 category: Spring / 注解
 tags: [spring, qualifier, primary, dependency-injection]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: mysql-composite-index-leftmost-prefix
 title: 联合索引为什么遵循最左前缀原则？
 category: MySQL / 索引
 tags: [mysql, composite-index, leftmost-prefix, range]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

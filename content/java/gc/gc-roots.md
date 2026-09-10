@@ -3,6 +3,7 @@ id: java-common-gc-roots
 title: Java 中常见的 GC Roots 有哪些？
 category: Java / GC
 tags: [java, jvm, gc, gc-roots]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: mysql-common-index-not-used-cases
 title: MySQL 哪些查询可能无法有效使用索引？
 category: MySQL / 索引
 tags: [mysql, index, explain, query-optimization]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

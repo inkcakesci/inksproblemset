@@ -3,6 +3,7 @@ id: backend-controller-service-dao-repository-layering
 title: Spring Boot 项目为什么采用 Controller、Service、DAO/Repository 分层？
 category: 项目设计 / 后端架构
 tags: [spring-boot, controller, service, dao, repository]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: java-hotspot-object-layout
 title: Java 对象在 HotSpot JVM 中通常如何布局？
 category: Java / JVM
 tags: [java, jvm, object-layout, hotspot]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

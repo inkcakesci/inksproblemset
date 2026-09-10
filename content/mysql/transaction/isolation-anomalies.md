@@ -3,6 +3,7 @@ id: mysql-transaction-isolation-anomalies
 title: 脏读、不可重复读和幻读有什么区别？
 category: MySQL / 事务
 tags: [mysql, isolation, mvcc, phantom-read]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

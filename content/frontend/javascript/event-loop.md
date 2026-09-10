@@ -3,6 +3,7 @@ id: js-event-loop
 title: JavaScript 事件循环
 category: 前端 / JavaScript
 tags: [javascript, browser, event-loop]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

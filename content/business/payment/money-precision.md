@@ -3,6 +3,7 @@ id: payment-money-precision-and-currency
 title: 支付系统如何正确存储和计算金额？
 category: 业务实践 / 支付
 tags: [payment, money, bigdecimal, currency]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

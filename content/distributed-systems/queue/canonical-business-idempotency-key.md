@@ -3,6 +3,7 @@ id: canonical-business-idempotency-key
 title: 如何用规范业务身份设计跨服务幂等键
 category: 分布式系统 / 任务队列
 tags: [Idempotency, Canonicalization, Distributed-System]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

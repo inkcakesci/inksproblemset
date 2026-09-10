@@ -3,6 +3,7 @@ id: stale-task-fencing
 title: 异步任务如何防止使用过期业务快照
 category: 分布式系统 / 任务队列
 tags: [Fencing, Revision, Async, Consistency]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

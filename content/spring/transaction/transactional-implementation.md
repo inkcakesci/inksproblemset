@@ -3,6 +3,7 @@ id: spring-transactional-implementation-and-pitfalls
 title: "@Transactional 如何实现，为什么会失效？"
 category: Spring / 事务
 tags: [spring, transaction, aop, transactional]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

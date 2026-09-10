@@ -3,6 +3,7 @@ id: java-when-not-to-use-hashmap
 title: 什么时候不应该使用 HashMap？
 category: Java / 集合
 tags: [java, hashmap, enummap, treemap]
+createdAt: "2026-08-09T18:44:33+08:00"
 type: qa
 ---
 

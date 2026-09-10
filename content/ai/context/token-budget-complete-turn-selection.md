@@ -3,6 +3,7 @@ id: token-budget-complete-turn-selection
 title: LLM 上下文为什么要按完整轮次和 Token 选窗
 category: AI / 上下文工程
 tags: [LLM, Context-Window, Token, Prompt]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

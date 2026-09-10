@@ -3,6 +3,7 @@ id: java-jvm-runtime-data-areas
 title: JVM 运行时数据区有哪些？
 category: Java / JVM
 tags: [java, jvm, memory, runtime-data-area]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

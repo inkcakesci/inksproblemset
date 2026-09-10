@@ -3,6 +3,7 @@ id: reporting-list-summary-export-consistency
 title: 资金流水和收入报表如何保证查询口径一致？
 category: 业务实践 / 报表
 tags: [reporting, fund-flow, aggregation, consistency]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

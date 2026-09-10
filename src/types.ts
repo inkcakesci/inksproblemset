@@ -3,6 +3,7 @@ export interface KnowledgeCard {
   title: string
   category: string
   tags: string[]
+  createdAt: string
   type: 'qa' | 'algorithm'
   difficulty?: 'easy' | 'medium' | 'hard'
   question: string

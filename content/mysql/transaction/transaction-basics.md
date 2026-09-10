@@ -3,6 +3,7 @@ id: mysql-transaction-basics
 title: 数据库事务是什么？
 category: MySQL / 事务
 tags: [mysql, transaction, commit, rollback]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

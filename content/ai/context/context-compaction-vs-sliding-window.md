@@ -3,6 +3,7 @@ id: context-compaction-vs-sliding-window
 title: Context Compaction 与滑动窗口有什么区别
 category: AI / 上下文工程
 tags: [LLM, Compaction, Context-Window, Prompt-Cache]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

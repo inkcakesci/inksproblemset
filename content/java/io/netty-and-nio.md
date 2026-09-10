@@ -3,6 +3,7 @@ id: java-netty-and-nio-relationship
 title: Netty 和 Java NIO 是什么关系？
 category: Java / IO
 tags: [java, netty, nio, event-loop]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

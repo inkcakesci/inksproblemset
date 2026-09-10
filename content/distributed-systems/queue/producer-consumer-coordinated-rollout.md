@@ -3,6 +3,7 @@ id: producer-consumer-coordinated-rollout
 title: 队列生产者和消费者为什么需要协调发布
 category: 分布式系统 / 任务队列
 tags: [Deployment, Queue, Compatibility, Capacity]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

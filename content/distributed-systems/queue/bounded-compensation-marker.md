@@ -3,6 +3,7 @@ id: bounded-compensation-marker
 title: 如何设计有界的一次性任务补偿
 category: 分布式系统 / 任务队列
 tags: [Compensation, Redis, Idempotency, Retry]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

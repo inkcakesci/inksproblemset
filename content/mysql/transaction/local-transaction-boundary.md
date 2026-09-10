@@ -3,6 +3,7 @@ id: database-local-transaction-cross-system-boundary
 title: 为什么本地事务不能解决跨系统一致性？
 category: MySQL / 事务
 tags: [transaction, distributed-system, saga, outbox]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

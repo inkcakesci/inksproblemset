@@ -3,6 +3,7 @@ id: java-collection-collections-stream
 title: Collection、Collections 和 Stream 有什么区别？
 category: Java / 集合
 tags: [java, collection, collections, stream]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

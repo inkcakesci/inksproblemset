@@ -3,6 +3,7 @@ id: database-flyway-compatible-migrations
 title: Flyway 数据库迁移与向后兼容
 category: 架构 / 数据库
 tags: [Flyway, Migration, Deployment]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

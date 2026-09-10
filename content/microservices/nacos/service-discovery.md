@@ -3,6 +3,7 @@ id: nacos-service-registration-and-discovery
 title: Nacos 如何完成服务注册与发现？
 category: 微服务 / Nacos
 tags: [nacos, service-discovery, load-balancer]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

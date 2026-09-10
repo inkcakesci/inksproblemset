@@ -3,6 +3,7 @@ id: payment-reconciliation-process
 title: 支付系统为什么需要对账，差错如何处理？
 category: 业务实践 / 支付
 tags: [payment, reconciliation, settlement, accounting]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

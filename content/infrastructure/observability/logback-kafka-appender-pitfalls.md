@@ -3,6 +3,7 @@ id: observability-logback-kafka-appender-pitfalls
 title: Logback Appender 发送 Kafka 有哪些坑？
 category: 基础设施 / 可观测性
 tags: [logback, kafka, recursion, non-blocking]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: spring-core-design-patterns
 title: Spring 中使用了哪些核心设计模式？
 category: Spring / 核心
 tags: [spring, design-patterns, ioc, aop]
+createdAt: "2026-07-29T22:55:34+08:00"
 type: qa
 ---
 

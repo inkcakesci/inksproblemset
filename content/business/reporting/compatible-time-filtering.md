@@ -3,6 +3,7 @@ id: reporting-compatible-time-parameter-filtering
 title: 报表时间参数如何兼容和规范化？
 category: 业务实践 / 报表
 tags: [time, zoned-date-time, filtering, compatibility]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

@@ -3,6 +3,7 @@ id: retrieval-index-not-source-of-truth
 title: 为什么向量检索索引不应成为长期记忆事实源
 category: AI / 长期记忆
 tags: [Vector-Search, Elasticsearch, Memory, Source-of-Truth]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

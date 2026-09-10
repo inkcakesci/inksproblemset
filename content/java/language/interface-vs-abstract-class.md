@@ -3,6 +3,7 @@ id: java-interface-vs-abstract-class
 title: Java 接口和抽象类有什么区别？
 category: Java / 语言基础
 tags: [java, interface, abstract-class, oop]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

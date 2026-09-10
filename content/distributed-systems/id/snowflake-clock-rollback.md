@@ -3,6 +3,7 @@ id: snowflake-id-and-clock-rollback
 title: Snowflake ID 如何组成，怎样处理时钟回拨？
 category: 分布式系统 / ID
 tags: [distributed-system, snowflake, clock, id]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

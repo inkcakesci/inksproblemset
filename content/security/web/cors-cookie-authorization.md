@@ -3,6 +3,7 @@ id: security-cors-cookie-authorization
 title: CORS、Cookie、Authorization Header 与 credentials
 category: 安全 / Web
 tags: [CORS, Cookie, JWT, CSRF]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

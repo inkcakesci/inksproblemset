@@ -3,6 +3,7 @@ id: operations-admin-permission-and-audit
 title: 运营后台的权限与审计如何设计？
 category: 业务实践 / 运营后台
 tags: [operations, admin, rbac, audit, security]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

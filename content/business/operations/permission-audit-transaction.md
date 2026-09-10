@@ -3,6 +3,7 @@ id: operations-permission-change-audit-transaction
 title: 权限审计为什么要和业务操作同事务？
 category: 业务实践 / 运营后台
 tags: [permission, audit, transaction, security]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 

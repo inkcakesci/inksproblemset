@@ -3,6 +3,7 @@ id: nacos-ap-cp-consistency-model
 title: Nacos 是 AP 还是 CP？
 category: 微服务 / Nacos
 tags: [nacos, ap, cp, distro]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

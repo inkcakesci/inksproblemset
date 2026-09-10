@@ -3,6 +3,7 @@ id: java-gc-mark-sweep-copy-compact
 title: 标记清除、复制和标记整理算法有什么区别？
 category: Java / GC
 tags: [java, jvm, gc, mark-sweep, copying, compact]
+createdAt: "2026-08-01T23:07:01+08:00"
 type: qa
 ---
 

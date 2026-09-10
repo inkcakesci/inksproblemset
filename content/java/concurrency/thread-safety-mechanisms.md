@@ -3,6 +3,7 @@ id: java-common-thread-safety-mechanisms
 title: Java 中如何保证线程安全？
 category: Java / 并发
 tags: [java, concurrency, synchronized, volatile, lock, atomic]
+createdAt: "2026-08-01T15:06:33+08:00"
 type: qa
 ---
 

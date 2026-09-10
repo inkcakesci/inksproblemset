@@ -3,6 +3,7 @@ id: mysql-redo-log-vs-binlog
 title: Redo Log 和 Binlog 有什么区别？
 category: MySQL / 事务
 tags: [mysql, redo-log, binlog, replication]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

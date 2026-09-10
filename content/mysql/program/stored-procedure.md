@@ -3,6 +3,7 @@ id: mysql-stored-procedure-use-cases
 title: 什么是存储过程？什么时候适合使用？
 category: MySQL / 数据库对象
 tags: [mysql, stored-procedure, sql]
+createdAt: "2026-08-07T22:12:09+08:00"
 type: qa
 ---
 

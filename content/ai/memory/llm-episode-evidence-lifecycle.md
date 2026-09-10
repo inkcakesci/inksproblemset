@@ -3,6 +3,7 @@ id: llm-episode-evidence-lifecycle
 title: Episode Memory 如何管理证据和生命周期
 category: AI / 长期记忆
 tags: [LLM, Episodic-Memory, Provenance, Lifecycle]
+createdAt: "2026-09-10T18:42:30+08:00"
 type: qa
 ---
 

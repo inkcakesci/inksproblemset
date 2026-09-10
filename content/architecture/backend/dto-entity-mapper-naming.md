@@ -3,6 +3,7 @@ id: backend-dto-entity-mapper-naming
 title: DTO、Entity、Mapper 与命名映射
 category: 架构 / 后端分层
 tags: [DTO, Entity, Mapper, Jackson]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

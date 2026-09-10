@@ -3,6 +3,7 @@ id: java-collection-vs-stream
 title: Java Collection 和 Stream 有什么区别？
 category: Java / Stream
 tags: [java, collection, stream, pipeline]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

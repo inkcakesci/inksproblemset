@@ -3,6 +3,7 @@ id: security-self-ownership-authorization
 title: 如何防止修改 URL 中的 userId 越权访问其他用户数据？
 category: 安全 / 授权
 tags: [authorization, idor, ownership, spring-security]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

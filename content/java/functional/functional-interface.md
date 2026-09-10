@@ -3,6 +3,7 @@ id: java-functional-interface-and-common-types
 title: Java 函数式接口是什么，常见类型有哪些？
 category: Java / 函数式编程
 tags: [java, functional-interface, predicate, function, consumer, supplier]
+createdAt: "2026-08-03T20:06:03+08:00"
 type: qa
 ---
 

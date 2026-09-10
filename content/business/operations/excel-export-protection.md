@@ -3,6 +3,7 @@ id: operations-large-excel-export-protection
 title: Excel 大文件导出如何做资源保护？
 category: 业务实践 / 运营后台
 tags: [excel, redis, rate-limit, resource-protection]
+createdAt: "2026-08-03T20:17:32+08:00"
 type: qa
 ---
 
